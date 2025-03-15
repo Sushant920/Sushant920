@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sushant Chavan</h1>
 
-- 🔭 I’m currently working on [MERN E-commerce](https://github.com/Sushant920/MERN_ECOMMERCE)
+- 🔭 I’m currently working on [GetItDone](https://github.com/Sushant920/GetItDone)
 
 - 🌱 I’m currently learning **MERN Stack and Machine Learning**
 
-- 👨‍💻 Portfolio website [https://sushantsopanchavan.web.app/](https://sushantsopanchavan.web.app/)
+- 👨‍💻 Portfolio website [https://tinyurl.com/sushantchavan](https://tinyurl.com/sushantchavan)
 
 - 💬 Ask me about **App Dev in Flutter**
 
